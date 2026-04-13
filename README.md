@@ -81,8 +81,8 @@ sequenceDiagram
 1. **Clone the repository**
 
    ```bash
-   git clone git@github.com:discoverlance-com/the-smart-corporate-search.git
-   cd the-smart-corporate-search
+   git clone git@github.com:rakabi007/smart-corporate-search-with-MCP-and-terraform.git
+   cd smart-corporate-search-with-MCP-and-terraform
    ```
 
 2. **Configure your Google AI API Key**
